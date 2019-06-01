@@ -1,5 +1,5 @@
 # DemoGit
-Démonstration de Git.
+Superbe démonstration de Git.
 
 - On utilise markdown ?
 - Ou pas !
